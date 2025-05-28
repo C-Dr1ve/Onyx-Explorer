@@ -134,7 +134,7 @@ G2L["b"]["TextColor3"] = Color3.fromRGB(28, 43, 54);
 G2L["b"]["BackgroundTransparency"] = 1;
 G2L["b"]["Size"] = UDim2.new(0.23667, 0, -0.01508, 50);
 G2L["b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["b"]["Text"] = [[V2.0.0         By C:\Drive]];
+G2L["b"]["Text"] = [[V1.0.0         By C:\Drive]];
 G2L["b"]["Name"] = [[Two]];
 G2L["b"]["Position"] = UDim2.new(0.38, 0, 0.51508, 0);
 
